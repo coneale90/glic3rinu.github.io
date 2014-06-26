@@ -46,7 +46,7 @@ input.t_chart { margin-left: 10px; }
 
 .node {
   font: 300 20px "Helvetica Neue", Helvetica, Arial, sans-serif;
-  fill: firebrick;
+  fill: burlywood;
 }
 
 .node:hover {
